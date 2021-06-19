@@ -18,8 +18,7 @@
 	<meta property="og:description" content="">
 	<meta name="twitter:card" content="summary_large_image">
 
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css?ver=5.8.2">
-	<link rel="stylesheet" href="./css/style.css">
+	<?php wp_head(); ?>
 
 	<link rel="icon" href="./img/icon-home.png">
 

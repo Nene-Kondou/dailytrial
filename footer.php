@@ -12,8 +12,7 @@
 		<a href="#"><i class="fas fa-chevron-up"></i></a>
 	</div>
 
-	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-	<script src="js/script.js"></script>
+	<?php wp_footer(); ?>
 
 </body>
 
