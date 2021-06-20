@@ -40,3 +40,4 @@ wp_enqueue_style('my', get_template_directory_uri() . '/css/style.css', array(),
 wp_enqueue_script('my', get_template_directory_uri() . '/js/script.js', array( 'jquery' ), '1.0.0', true);
 }
 add_action('wp_enqueue_scripts', 'my_script_init');
+
